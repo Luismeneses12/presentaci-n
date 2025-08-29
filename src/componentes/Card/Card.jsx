@@ -56,9 +56,9 @@ const Card = ()=>{
         <footer>
             <div>
                 <ul>
-                    <li><a href="https://www.facebook.com/luis.meneses.733"><img src="./src/picture/facebook.png" alt=""  className="icono"/></a></li>
-                    <li><a href="https://www.instagram.com/luismeneses498/"><img src="./src/picture/instagram.png" alt=""  className="icono"/></a></li>
-                    <li><a href="https://github.com/Luismeneses12"><img src="./src/picture/github.png" alt=""  className="icono"/></a></li>
+                    <li><a href="https://www.facebook.com/luis.meneses.733"><img src="./src/picture/facebook.png" alt="iconoDeFacebook"  className="icono"/></a></li>
+                    <li><a href="https://www.instagram.com/luismeneses498/"><img src="./src/picture/instagram.png" alt="iconoDeInstagram"  className="icono"/></a></li>
+                    <li><a href="https://github.com/Luismeneses12"><img src="./src/picture/github.png" alt="iconoDeGithub"  className="icono"/></a></li>
                 </ul>
             </div>
             <div>
