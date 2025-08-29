@@ -1,0 +1,14 @@
+.card-module{
+    font-size: rem;
+    color: #f4f4;
+    text-align: center;
+    border: 2px solid black;
+    margin: 2rem;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+.card-module:hover{
+    color: blue;
+    background-color: black;
+    cursor: pointer;
+}
